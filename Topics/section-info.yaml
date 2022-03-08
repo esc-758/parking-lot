@@ -1,0 +1,18 @@
+content:
+- Introduction to Kotlin
+- Overview of the basic program
+- The classification of basic types
+- Boolean and logical operations
+- String templates
+- Processing strings
+- Declaring functions
+- Declaring classes
+- Jumps and returns
+- Standard input
+- Type conversion
+- Named arguments
+- Errors in programs
+- Taming exceptions
+- Type system
+- Inheritance
+- Data class
